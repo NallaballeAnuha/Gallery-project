@@ -12,4 +12,4 @@ Click any image to view it in a full-screen modal.
 - Close modal with 'X' button
 
 ## Live Demo
-[Add your GitHub Pages link here later]
+https://NallaballeAnuha.github.io/Gallery-project
