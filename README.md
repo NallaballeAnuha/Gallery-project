@@ -13,3 +13,6 @@ Click any image to view it in a full-screen modal.
 
 ## Live Demo
 https://NallaballeAnuha.github.io/Gallery-project
+
+Connect with me:
+Email:nallaballeanuha@gmail.com
